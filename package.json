@@ -1,0 +1,21 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "automatize":"nodemon automatize.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "puppeteer": "^19.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
