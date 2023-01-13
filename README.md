@@ -1,4 +1,4 @@
-# NodeJS Web Scrapping
+# NodeJS Web Scrapping for Grailed
 I create this app to do web scraping on the grailed site for a personal ecommerce project
 
 ### :eyes: how to use
